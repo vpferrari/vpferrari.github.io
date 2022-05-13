@@ -1,4 +1,4 @@
-<p align="center"> [Main](https://vpferrari.github.io/) | HOWTOs | Blog </p?
+[Main](https://vpferrari.github.io/) | HOWTOs | Blog
 
 # Hello world
 
