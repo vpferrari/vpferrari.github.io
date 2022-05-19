@@ -9,4 +9,4 @@
 
 # Latest Entries:
 
-- HOWTOs: [Setup gdal in a Python venv](vpferrari.github.io/main/howtos/gdal-python-venv.md)  
+- [Setup gdal in a Python venv](vpferrari.github.io/main/howtos/gdal-python-venv.md)
