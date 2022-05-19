@@ -7,3 +7,6 @@
 - 🌱 I’m currently learning SQL Alchemy, Django
 - 📫 How to reach me: guilhermepferrari@gmail.com
 
+# Latest Entries:
+
+- HOWTOs: [Setup gdal in a Python venv]("howtos/gdal-python-venv.md")  
